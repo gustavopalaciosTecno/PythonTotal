@@ -8,4 +8,4 @@ de línea innecesarios pueden ocasionar errores inesperados que no son detectado
 por el módulo de evaluación, devolviendo un error en tu ejercicio.
 """
 
-print("Me encanta estudiar Python")
+print('Me encanta estudiar Python')
