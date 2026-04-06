@@ -1,0 +1,7 @@
+Las variables debe tener los siguientes requisitos para poder crearlas correctamente:
+regla 1 : legible (que se pueda leer con facilidad)
+regla 2 : unidad (debe tener una sola unidad de texto, que tenga un solo nombre)
+regla 3 : hispanismos(omitir las letras ñ o ciertas palabras del idioma español)
+regla 4 : numeros(siempre debe comenzar con una letra y no con un número)
+regla 5 : símbolos(no pueden contener ningun símbolo como : ? /=q()...etc)
+regla 6: palabras claves(no se pueden usar palabras propias de python como input, print, etc)
